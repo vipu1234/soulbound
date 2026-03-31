@@ -1,0 +1,26 @@
+# Environment
+.env
+.env.local
+
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build outputs
+/frontend/dist/
+/backend/dist/
+build/
+
+# Database files
+/data/*.db
+/data/*.sqlite
+
+# Uploads
+/backend/uploads/
+
+# IDE config
+.vscode/
+.idea/
+*.suo
+*.sln
